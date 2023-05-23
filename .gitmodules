@@ -1,0 +1,8 @@
+[submodule "ld-company"]
+	path = ld-company
+	active = false
+	url = git@github.com:XMLSHOP/xmlship-company-logistics-demo.git
+[submodule "ws-company"]
+	path = ws-company
+	active = false
+	url = git@github.com:XMLSHOP/xmlship-company-worldwide-shipping.git
